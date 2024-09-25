@@ -44,4 +44,3 @@ The results provide insights into how each algorithm performs under various cond
 
 The script measures and compares the execution times of both sorting algorithms on different types of arrays to help understand their efficiency and behavior in various scenarios. This analysis can help in choosing the right sorting strategy based on the input data characteristics.
 
-For questions or further information, feel free to contact the developer via [your-email@example.com](mailto:your-email@example.com).
